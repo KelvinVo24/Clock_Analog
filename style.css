@@ -211,8 +211,8 @@ body{
     .clock .hour,
     .clock .minute,
     .clock .second {
-        width: 120px;
-        height: 120px;
+        width: 140px;
+        height: 140px;
     }
 
     .clock .hour .hr,
@@ -236,12 +236,12 @@ body{
 
     .clock .hour .hr::before {
         width: 6px;
-        height: 60px;
+        height: 65px;
     }
 
     .clock .minute .min::before {
         width: 3px;
-        height: 70px;
+        height: 90px;
     }
 
     .clock .second .sec::before {
